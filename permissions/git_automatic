@@ -1,0 +1,5 @@
+#!/bin/bash
+chmod u+X .
+git add .
+git commit -m "Automatic"
+git push
